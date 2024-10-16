@@ -1,4 +1,4 @@
-.venv/
-.idea/
-.vscod/
-venv/
+.venv
+.idea
+.vscod
+venv
